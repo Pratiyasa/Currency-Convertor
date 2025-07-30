@@ -24,7 +24,7 @@ A sleek and responsive **Currency Converter** web application built with **HTML*
 
 ## 📁 Project Structure
 
-currency-converter/
+Currency-Converter/
 ├── index.html
 ├── style.css
 ├── app.js

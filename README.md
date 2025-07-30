@@ -12,7 +12,7 @@ A sleek and responsive **Currency Converter** web application built with **HTML*
 
 ## 🚀 Live Demo
 
-[🔗 View Live Project]()  
+[🔗 View Live Project](https://github.com/Pratiyasa/Currency-Convertor.git)  
 
 
 ## 🛠️ Technologies Used
@@ -20,7 +20,7 @@ A sleek and responsive **Currency Converter** web application built with **HTML*
 - **HTML** – Markup and layout  
 - **CSS** – Styling and layout responsiveness  
 - **JavaScript** – Logic, API handling, and interactivity  
-- **Exchange Rate API** –  for fetching live rates
+- **Exchange Rate API** – (https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/) for fetching live rates
 
 ## 📁 Project Structure
 
@@ -45,6 +45,6 @@ currency-converter/
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/Pratiyasa/Currency-Convertor.git
 
 
